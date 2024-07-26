@@ -22,6 +22,17 @@ nav {
   height: 15vh;
 }
 
+/* Navbar */
+
+nav {
+  background: linear-gradient(to right, #091823, #0f4556);
+  height: 20vh;
+}
+
+.logo {
+  height: 100%;
+}
+
 /* Slideshow container */
 .slideshow-container {
   border: 2px solid red;
